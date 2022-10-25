@@ -3,11 +3,11 @@
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ```javascript
-const identitas = {
-    Nama      : Izzatun Nauly
-    Prodi     : D-IV Teknik Informatika
-    Jurusan   : Teknologi Informasi
-    Mahasiswa : Politeknik Negeri Malang
+const identity = {
+    identity.name : Izzatun Nauly
+    identiy.username : IzzatunNauly
+    identity.location : Malang, East Java
+    identity.instagram : @izzatun_nauly
     }
 };
 ```

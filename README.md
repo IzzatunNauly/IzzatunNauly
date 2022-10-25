@@ -1,16 +1,20 @@
-### Hi there 👋
+![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
 
-<!--
-**IzzatunNauly/IzzatunNauly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, thanks for stopping
 
-Here are some ideas to get you started:
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const charles = {
+    Nama    : Izzatun Nauly
+    Prodi   : D-IV Teknik Informatika
+    Jurusan : Teknologi Informasi
+    }
+};
+```
+
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+
+---
+
+⭐️ From [@iCharlesZ](https://github.com/iCharlesZ)
